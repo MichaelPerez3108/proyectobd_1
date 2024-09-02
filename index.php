@@ -92,7 +92,7 @@
     </script>
 
     <!-- Asegúrate de incluir el script de Google Maps con tu API key -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=&callback=iniciarMapa"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9oqTGUUcfLcnevUhCcm9YTw03kqLbE7E&callback=iniciarMapa"></script>
 
 </body>
 

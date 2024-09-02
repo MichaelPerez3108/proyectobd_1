@@ -102,7 +102,7 @@
         }
     </script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=&callback=iniciarMapa"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9oqTGUUcfLcnevUhCcm9YTw03kqLbE7E&callback=iniciarMapa"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
